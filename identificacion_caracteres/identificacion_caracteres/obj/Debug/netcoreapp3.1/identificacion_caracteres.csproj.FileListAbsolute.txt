@@ -1,0 +1,11 @@
+C:\Users\SISTEMAS\source\repos\identificacion_caracteres\identificacion_caracteres\bin\Debug\netcoreapp3.1\identificacion_caracteres.exe
+C:\Users\SISTEMAS\source\repos\identificacion_caracteres\identificacion_caracteres\bin\Debug\netcoreapp3.1\identificacion_caracteres.deps.json
+C:\Users\SISTEMAS\source\repos\identificacion_caracteres\identificacion_caracteres\bin\Debug\netcoreapp3.1\identificacion_caracteres.runtimeconfig.json
+C:\Users\SISTEMAS\source\repos\identificacion_caracteres\identificacion_caracteres\bin\Debug\netcoreapp3.1\identificacion_caracteres.runtimeconfig.dev.json
+C:\Users\SISTEMAS\source\repos\identificacion_caracteres\identificacion_caracteres\bin\Debug\netcoreapp3.1\identificacion_caracteres.dll
+C:\Users\SISTEMAS\source\repos\identificacion_caracteres\identificacion_caracteres\bin\Debug\netcoreapp3.1\identificacion_caracteres.pdb
+C:\Users\SISTEMAS\source\repos\identificacion_caracteres\identificacion_caracteres\obj\Debug\netcoreapp3.1\identificacion_caracteres.csprojAssemblyReference.cache
+C:\Users\SISTEMAS\source\repos\identificacion_caracteres\identificacion_caracteres\obj\Debug\netcoreapp3.1\identificacion_caracteres.AssemblyInfoInputs.cache
+C:\Users\SISTEMAS\source\repos\identificacion_caracteres\identificacion_caracteres\obj\Debug\netcoreapp3.1\identificacion_caracteres.AssemblyInfo.cs
+C:\Users\SISTEMAS\source\repos\identificacion_caracteres\identificacion_caracteres\obj\Debug\netcoreapp3.1\identificacion_caracteres.dll
+C:\Users\SISTEMAS\source\repos\identificacion_caracteres\identificacion_caracteres\obj\Debug\netcoreapp3.1\identificacion_caracteres.pdb
